@@ -1,5 +1,5 @@
-var elm = document.getElementbyId("quote");
+var elm = document.getElementbyId('quote');
 
 elm.classList.add('animate__animated', 'animate__backInRight', 'animate__slower');
 
-console.log("animation completed");
+console.log('animation completed');
